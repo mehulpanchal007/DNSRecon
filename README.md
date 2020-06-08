@@ -1,5 +1,7 @@
 # DNSRecon
 
+### CAUTION: This is active reconnaissance script
+
 ## Usage
 
 #### 1. Create a output folder
