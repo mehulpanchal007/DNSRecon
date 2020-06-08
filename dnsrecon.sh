@@ -34,3 +34,5 @@ echo "" >> $otpt
 arc=$(dig -t A +noall +nottlid +noclass +answer $dom @$soarc)
 
 printf "$arc" >> $otpt
+
+printf "\n\n\n" >> $otpt
